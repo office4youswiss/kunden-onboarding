@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "kunden-onboarding",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "f3ab33af-fd17-4a98-9962-e00ebf5abb3c",
+			"database_name": "kunden-onboarding"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
